@@ -12,15 +12,22 @@ To install and run this project, follow these steps:
    git clone https://github.com/MavunoXafrica/server_mavunoX.git
 
 2. Change the project directory
+
+    ```terminal
     cd server_mavunoX
 
 3. Install Dependencies
+
+    ```terminal
     npm install
 
 # Usage
  
  To use the project, run the following command: 
+
+ ```terminal
  npm run dev
+ 
  This will start the application and you can access it at http://localhost:5000/
 
 # Configuration
